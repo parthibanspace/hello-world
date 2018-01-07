@@ -1,2 +1,2 @@
 # hello-world
-traditional program
+I just wanted to make some changes.

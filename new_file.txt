@@ -1,2 +1,3 @@
 I'm a new file
 I'm being edited.
+I'm being tested.
